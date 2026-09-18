@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à la chaîne latérale Bitcoin, les actifs émis et les transactions confidentielles est disponible dans [docs/fr/](docs/fr/).
+
 Elements Project blockchain platform
 ====================================
 
